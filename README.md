@@ -38,3 +38,10 @@ make
 sudo make install</pre>
 ![yosys](https://github.com/praaveenharigs/Week-_0-Risc-v-_tapeout/blob/main/pictures/IMG-20250920-WA0011%20(6).jpg)
 
+## Iverilog Installation & Verification
+Iverilog is a popular Verilog simulation tool.
+
+###Installation
+<pre>sudo apt update
+sudo apt-get install iverilog
+</pre>
