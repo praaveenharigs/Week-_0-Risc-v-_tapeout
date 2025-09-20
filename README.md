@@ -41,7 +41,7 @@ sudo make install</pre>
 ## Iverilog Installation & Verification
 Iverilog is a popular Verilog simulation tool.
 
-###Installation
+### Installation
 <pre>sudo apt update
 sudo apt-get install iverilog
 </pre>
