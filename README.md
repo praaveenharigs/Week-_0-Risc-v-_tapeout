@@ -23,7 +23,7 @@ Memory: 7162MB
 ## Yosys Installation & Verification
 Yosys is an open-source synthesis tool used for RTL-to-gate conversion.
 
-### Instalation
+### Installation
 <pre>sudo apt-get update
 git clone https://github.com/YosysHQ/yosys.git
 cd yosys
