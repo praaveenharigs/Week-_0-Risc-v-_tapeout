@@ -36,3 +36,5 @@ sudo apt-get install build-essential clang bison flex \
 git submodule update --init --recursive
 make 
 sudo make install</pre>
+![yosys]()
+
