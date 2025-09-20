@@ -18,7 +18,7 @@ Shell: bash 5.1.16
 Memory: 7162MB
 
 ## References 
-![references](https://github.com/praaveenharigs/Week-_0-Risc-v-_tapeout/blob/main/IMG-20250920-WA0011%20(7).jpg)
+![references](https://github.com/praaveenharigs/Week-_0-Risc-v-_tapeout/blob/main/pictures/IMG-20250920-WA0011%20(7).jpg)
 
 ## Yosys Installation & Verification
 Yosys is an open-source synthesis tool used for RTL-to-gate conversion.
