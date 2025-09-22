@@ -62,6 +62,8 @@ sudo apt install gtkwave
 ![gtk](https://github.com/praaveenharigs/Week-_0-Risc-v-_tapeout/blob/main/pictures/IMG-20250920-WA0011%20(9).jpg)
 
 ### Tools
-|Tool|Command|Installed version|
-|----|-------|-----------------|
-|gftyf|vrd|dvrdrd5d|
+|Tool|Installed version|
+|----|-----------------|
+|Yosys|0.9|
+|Iverilog|11.0|
+|GTKWave|3.3.104|
