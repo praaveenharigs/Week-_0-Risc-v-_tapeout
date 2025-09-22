@@ -60,8 +60,9 @@ Recommended:
 sudo apt install gtkwave
 </pre>
 ![gtk](https://github.com/praaveenharigs/Week-_0-Risc-v-_tapeout/blob/main/pictures/IMG-20250920-WA0011%20(9).jpg)
+![wave]()
 
-### Tools
+### Tool Summary
 |Tool|Installed version|
 |----|-----------------|
 |Yosys|0.9|
