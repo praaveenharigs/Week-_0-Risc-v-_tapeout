@@ -3,7 +3,7 @@ This document outlines the environment setup, installation, and tool verificatio
 ## System Information
 Gathered via:
 <pre>neofetch</pre>
-Example output:
+### Example output:
 
 OS: Ubuntu 22.04.5 LTS x86_64
 
