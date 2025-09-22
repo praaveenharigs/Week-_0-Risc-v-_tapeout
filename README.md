@@ -60,7 +60,7 @@ Recommended:
 sudo apt install gtkwave
 </pre>
 ![gtk](https://github.com/praaveenharigs/Week-_0-Risc-v-_tapeout/blob/main/pictures/IMG-20250920-WA0011%20(9).jpg)
-![wave]()
+![wave](https://github.com/praaveenharigs/Week-_0-Risc-v-_tapeout/blob/main/pictures/IMG-20250920-WA0011%20(8).jpg)
 
 ### Tool Summary
 |Tool|Installed version|
@@ -68,3 +68,10 @@ sudo apt install gtkwave
 |Yosys|0.9|
 |Iverilog|11.0|
 |GTKWave|3.3.104|
+
+## About
+Week 0 of the RISC-V Reference SoC Tapeout Program.
+
+For further guidance, refer to [VLSI System Design Labs.](https://www.vlsisystemdesign.com/soc-labs/)
+
+
