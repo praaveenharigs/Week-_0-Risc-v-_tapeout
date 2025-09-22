@@ -45,4 +45,8 @@ Iverilog is a popular Verilog simulation tool.
 <pre>sudo apt update
 sudo apt-get install iverilog
 </pre>
+### Verification
+
+Run:
+<pre>iverilog</pre>
 ![iverilog](https://github.com/praaveenharigs/Week-_0-Risc-v-_tapeout/blob/main/pictures/IMG-20250920-WA0011%20(10).jpg)
