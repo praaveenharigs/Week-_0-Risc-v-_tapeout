@@ -50,3 +50,13 @@ sudo apt-get install iverilog
 Run:
 <pre>iverilog</pre>
 ![iverilog](https://github.com/praaveenharigs/Week-_0-Risc-v-_tapeout/blob/main/pictures/IMG-20250920-WA0011%20(10).jpg)
+
+## GTKWave Installation & Verification
+GTKWave is a waveform analyzer for viewing .vcd simulation results.
+
+### Installation
+Recommended:
+<pre>sudo apt update
+sudo apt install gtkwave
+</pre>
+![gtk]()
